@@ -1,0 +1,11 @@
+.main-bg{
+  background-color: #2a329e;
+  font-family: sans-serif;
+  height: 97vh;
+  overflow: hidden
+}
+
+.main{
+  background-color: hsl(224.29deg 67.2% 50.98%);
+  height: 60vh;
+}
